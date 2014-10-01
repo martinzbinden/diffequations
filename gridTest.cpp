@@ -38,7 +38,8 @@ int main()
 
 
 
-// Hier sollte wohl dann noch eine Ausgabefunktion kommen um das erstellte grid auf wxwidgets anzuzeigen
+// Hier sollte wohl dann noch eine Ausgabefunktion kommen um das erstellte grird auf wxwidgets anzuzeigen
+// evtl. mit http://wiki.wxwidgets.org/WxGrid ?
 
     return 0;
 
